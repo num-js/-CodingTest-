@@ -1,0 +1,11 @@
+1. Login with Email	(Done)
+3.Registeration Validation  (Done)
+2.Admin Login**     (Done)
+3.  2Options Only	(Done)
+4.Save results into DB**    (Done)
+4.Forgot Password    (Done)
+10.Feedback form....**  (Done)
+
+
+5.Set Questions Limit   
+6.Question Papers from the User
