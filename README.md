@@ -1,4 +1,4 @@
 # -CodingTest-
-&lt;CodingTest/> Web Project
+&lt;CodingTest/> - PHP
 
 http://www.codingtest.byethost31.com/
